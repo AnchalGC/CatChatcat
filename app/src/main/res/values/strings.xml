@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Fun Cat Chat App!</string>
+    <string name="app_name">Anchal Fun Cat Chat App!</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_inbox_fragment">Inbox</string>
     <string name="hello_help_fragment">Help</string>
